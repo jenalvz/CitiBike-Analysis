@@ -29,9 +29,15 @@ This analysis contains several different visualizations across four main dashboa
 	- '10 Least Popular Ending stations': A chart that looks at the ten least popular ending stations.
 
 This analysis uncovered some interesting patterns and trends:
+
+ - Main DASH:
 	- Overall, July had the greatest number of rides recorded. This could be due to the fact that summer is peaking in July, and there are more people outside to use the available bikes.
 	- Mondays and Saturdays in July saw the highest volume of rides recorded.
+
+ - Main DASH -2:
 	- Member riders were the most active group overall, but they had a staggering spike in activity during the hours of 7-8 am, and again from around 4-7 pm. These could be members who use Citi Bikes as their main mode of transport to commute to and from work.
+	
+ - Start DASH and End DASH:
 	- The three most popular starting and ending stations were Grove St PATH, Hoboken Terminal - River St & Hudson Pl, and South Waterfront Walkway - Sinatra Dr & 1st. All of these are located in Jersey City and Hoboken.
 
 
