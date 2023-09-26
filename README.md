@@ -36,10 +36,18 @@ This analysis uncovered some interesting patterns and trends:
 
  - Main DASH -2:
 	- Member riders were the most active group overall, but they had a staggering spike in activity during the hours of 7-8 am, and again from around 4-7 pm. These could be members who use Citi Bikes as their main mode of transport to commute to and from work.
-	
+
  - Start DASH and End DASH:
 	- The three most popular starting and ending stations were Grove St PATH, Hoboken Terminal - River St & Hudson Pl, and South Waterfront Walkway - Sinatra Dr & 1st. All of these are located in Jersey City and Hoboken.
 
 
+Next Steps: 
+ - When looking at ways to increase revenue, it is important to look at bike and docking station availability at the most popular stations, and consider increasing the amount of bikes and docking stations available. One could also look at the least popular stations, which only appeared to log <5 rides all summer, and consider adjusting the labor and materials used in these stations, accordingly.
+ - One could also develop incentives for members to go on rides during low-volume hours throughout the week to promote bike use, and overall customer satisfaction with the return on their investment.
 
+-----
+References: https://citibikenyc.com/system-data
+
+----
+Resources Used: In-class activities, Google, Tableau FAQs.
 
